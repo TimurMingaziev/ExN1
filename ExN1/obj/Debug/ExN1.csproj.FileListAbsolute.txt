@@ -1,0 +1,6 @@
+h:\users\switch\documents\visual studio 2013\Projects\ExN1\ExN1\bin\Debug\ExN1.exe.config
+h:\users\switch\documents\visual studio 2013\Projects\ExN1\ExN1\bin\Debug\ExN1.exe
+h:\users\switch\documents\visual studio 2013\Projects\ExN1\ExN1\bin\Debug\ExN1.pdb
+h:\users\switch\documents\visual studio 2013\Projects\ExN1\ExN1\obj\Debug\ExN1.csprojResolveAssemblyReference.cache
+h:\users\switch\documents\visual studio 2013\Projects\ExN1\ExN1\obj\Debug\ExN1.exe
+h:\users\switch\documents\visual studio 2013\Projects\ExN1\ExN1\obj\Debug\ExN1.pdb
